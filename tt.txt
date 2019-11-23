@@ -1,7 +1,1 @@
-$ cat readme.txt 
-Git is a distributed version control system.
-阿第三方的
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-
-年度发生阿斯蒂芬
+1
